@@ -1,0 +1,8 @@
+*.ipynb
+__pycache__/
+*.pyc
+*.csv
+*.pkl
+*.log
+
+poetry.lock

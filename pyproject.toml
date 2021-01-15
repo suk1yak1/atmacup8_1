@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "atmacup8_1"
+version = "0.1.0"
+description = ""
+authors = ["suk1yak1 <40166140+suk1yak1@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7.5"
+pandas = "1.2.0"
+numpy = "1.19.4"
+scikit-learn = "0.24.0"
+tqdm = "4.55.1"
+lightgbm = "3.1.1"
+psutil = "5.8.0"
+category-encoders = "2.2.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
