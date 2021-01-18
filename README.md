@@ -1,4 +1,4 @@
-#8.1 atmaCup [playground] Coffee Review
+# 8.1 atmaCup [playground] Coffee Review
 
 - LightGBM
 - StratifiedKFold(n_splits=10) by binned total_cup_points
